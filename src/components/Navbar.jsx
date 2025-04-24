@@ -10,7 +10,7 @@ const Navbar = ({onSearch}) => {
             className="text-black text-xl font-bold hover:text-gray-300"
             >
                 <div  >
-                    <h1>RUN TEST</h1>
+                    <h1>POKEDEX</h1>
                 </div>
             </a>
         </section>
