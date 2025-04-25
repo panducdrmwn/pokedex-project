@@ -8,7 +8,7 @@ Take a look of it. And if you wanna play around with this simple overview, then 
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd chat-app
+cd pokedex-project
 npm i
 npm start
 ```
@@ -16,8 +16,6 @@ npm start
 ## Resources
 
 I uses a number of open source projects to work properly:
-
-This project is deployed with Firebase.
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
